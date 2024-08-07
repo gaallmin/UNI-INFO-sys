@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+infosys/
+
+# CSV, SQLite database files
+*.csv
+*.sqlite3
+*.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Scrapy output files (if not needed)
+*.log
+*.txt
+*.dat
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python virtual environment directories
+venv/
